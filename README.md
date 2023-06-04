@@ -51,30 +51,41 @@
     
     6. Removed special charcters and stop words present in the text and performed Vectorization (feature extraction) on it.
    
-    7. Built different ML models like Logistic Regression, Decision Tree and Random Forest and compared them on the basis of their Accuracy Score and other Key Metrics, to find out the best fit model for the task.
+    7. Built Logistic Regression ML model  and find out Accuracy Score and other Key Metrics, to find out the best fit model for the task.
    
 <br>
 
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
+   
+1:-In this data, we have more than 25% positive tweets
+
+2:- We have more then 27% negative tweets.
+
+3:- Combination of Neutral and Irrelevant tweets is more then 40%
+  
+<br>
+
 # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Findings
-   
-   1. Around 38% of the users have Negative Sentiments, whereas rest 62% have Positive Sentiments for Twitter's Services. This shows healthy User Satisfaction.
-   
-   2. Users providing Ratings as 1 are having highest Negative Sentiment bearing User Population.
-   
-   3. Whereas, those Users who provided Ratings as 3 are having highest Positive Sentiment bearing User Population.
-   
-   4. The Random Forest ML Model with about 90% Accuracy Score is found the Best Fit Model for this task.
+ 
+1:- From all these wordclouds of different classes, we can "WILL" is the common words used
+
+2:- From positive sentiment wordclouds, we can see that "WINDOWS","IDEA" are the most common words used
+
+3:- From negative sentiment wordclouds, we can see that "LIFE","CAME","BIGGEST" are the most common words used
+
+4:- From neutral sentiment wordclouds, we can see that "ROCK","CC","NVIDIA" are the most common words used
+
+5:-From Irrelevant sentiment wordclouds, we can see that "ROCK","CC","NVIDIA" are the most common words used
+
+
    
    <br>
    
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Metrics
 ![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
    
-   1. The Accuracy Score of the Logistic Regression Model built for predicting Sentiments of the Users is found around 79.6%.
+   1. The Accuracy Score of the Logistic Regression Model built for predicting Sentiments of the Users is found around 80%.
    
-   2. The Accuracy Score of the Decision Tree Model built for predicting Sentiments of the Users is found around 73%.
-   
-   3. The Accuracy Score of the Random Forest Model built for predicting Sentiments of the Users is found around 90%.
    
    <br>
    
