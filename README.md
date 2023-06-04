@@ -1,4 +1,5 @@
 # Twitter-Tweets-Sentiment-Analysis
+#  <img src = "https://res.cloudinary.com/qna/image/upload/v1635170410/sentiment-points.a502b2c_pyfy2i.png" width = 500></center>
 
 #
 ##  <h>  **Analysis of Twitter's User's Sentiments regarding Twitter's Services with Machine Learning and Python (Pandas, NLTK, RE, Seaborn, Matplotlib, NumPy etc).**
