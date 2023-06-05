@@ -2,12 +2,7 @@
 #  <img src = "https://res.cloudinary.com/qna/image/upload/v1635170410/sentiment-points.a502b2c_pyfy2i.png" width = 500></center>
 
 #
-##  <h>  **Analysis of Twitter's User's Sentiments regarding Twitter's Services with Machine Learning and Python (Pandas, NLTK, RE, Seaborn, Matplotlib, NumPy etc).**
-
-**The Project is aimed to provide an analysis of the Sentiments of the Users of Twitter Social Media Platform using  Logistic Regression Machine Learning Model 
-  The Project's objectives were to build a ML Model that can accurately predict the Sentiments (Positive/Negative) of the users on the basis of the Ratings and the content of the Reviews provided by it's users. 
-  The aim was to assist the Social media platforms with the information that they can use to formulate their strategy in order to enhance the User's satisfaction and expand their user base. Additionally, different ML Models have been compared on the basis of their Accuracy Score and other Key Metrics, to find out the best fit model for the task. 
-  Moreover, it aimed to reveal some of the dataset's hidden insights. The Data Cleaning was done with Pandas. The ML Models were built with NLTK, RE and Pandas, whereas the analysis of the data has been done with Pandas and visualisation library, Seaborn..**
+##  <h>  The Project is aimed to provide an analysis of the Sentiments of the Users of Twitter Social Media Platform using Machine Learning Models like Logistic Regression,Decision Tree and Random Forest Model based upon their Ratings and Reviews. The Project's objectives were to build a ML Model that can accurately predict the Sentiments (Positive/Negative) of the users on the basis of the Ratings and the content of the Reviews provided by it's users. The aim was to assist the Social media platforms with the information that they can use to formulate their strategy in order to enhance the User's satisfaction and expand their user base. Additionally, different ML Models have been compared on the basis of their Accuracy Score and other Key Metrics, to find out the best fit model for the task. Moreover, it aimed to reveal some of the dataset's hidden insights. The Data Cleaning was done with Pandas. The ML Models were built with NLTK, RE and Pandas, whereas the analysis of the data has been done with Pandas and visualisation library, Seaborn..
 
 
 
