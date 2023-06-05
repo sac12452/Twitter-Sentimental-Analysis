@@ -47,7 +47,8 @@
     
     6. Removed special charcters and stop words present in the text and performed Vectorization (feature extraction) on it.
    
-    7. Built Logistic Regression ML model  and find out Accuracy Score and other Key Metrics, to find out the best fit model for the task.
+    7. Built different ML models like Logistic Regression, Decision Tree and Random Forest and compared them on the basis of their Accuracy Score and other Key Metrics, to find out the best fit model for the task.
+
    
 <br>
 
@@ -71,7 +72,7 @@
 
 4:- From neutral sentiment wordclouds, we can see that "ROCK","CC","NVIDIA" are the most common words used
 
-5:-From Irrelevant sentiment wordclouds, we can see that "ROCK","CC","NVIDIA" are the most common words used
+5:-From Irrelevant sentiment wordclouds, we can see that "","CC","NVIDIA" are the most common words used
 
 
    
@@ -80,7 +81,11 @@
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Metrics
 ![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
    
-   1. The Accuracy Score of the Logistic Regression Model built for predicting Sentiments of the Users is found around 80%.
+1- The Accuracy Score of the Logistic Regression Model built for predicting Sentiments of the Users is found around 79.6%.
+
+2- The Accuracy Score of the Decision Tree Model built for predicting Sentiments of the Users is found around 73%.
+
+3- The Accuracy Score of the Random Forest Model built for predicting Sentiments of the Users is found around 90%.
    
    
    <br>
