@@ -25,7 +25,7 @@ Analysis of Twitter's User's Sentiments regarding Twitter's Services with Machin
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     
-    o       Analysed the Accuracy Scores of Different ML Models for predicting the Sentiments.
+    o Analysed the Accuracy Scores of Different ML Models for predicting the Sentiments.
     
     o	Also analysed the F1 Scores, Precision Scores and Recall Scores of Different ML Models by creating their Classification Reports.
      
@@ -74,7 +74,7 @@ Analysis of Twitter's User's Sentiments regarding Twitter's Services with Machin
 
 4:- From neutral sentiment wordclouds, we can see that "ROCK","CC","NVIDIA" are the most common words used
 
-5:-From Irrelevant sentiment wordclouds, we can see that "","CC","NVIDIA" are the most common words used
+5:-From Irrelevant sentiment wordclouds, we can see that "CONCEPTS","LANDA","MULTIMODAL" are the most common words used
 
 
    
