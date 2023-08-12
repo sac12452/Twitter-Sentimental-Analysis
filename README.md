@@ -89,6 +89,21 @@
 2- The Accuracy Score of the Decision Tree Model built for predicting Sentiments of the Users is found around 79.53%.
 
 3- The Accuracy Score of the Random Forest Model built for predicting Sentiments of the Users is found around 91.04%.
+
+
+<br>
+
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Challenges
+
+1 - Tweets often contain slang, abbreviations, emojis, and misspellings, making it challenging for traditional natural language processing (NLP) models to accurately interpret the sentiment.
+
+2 - Twitter is notorious for the use of irony and sarcasm, which can be difficult for models to identify, as these expressions might be misinterpreted by sentiment analysis algorithms.
+
+3 - The distribution of sentiments (positive, negative, neutral) in Twitter data can be imbalanced, with neutral tweets often being the most common. This can impact model training and evaluation
+
+4 - Sentiments can change rapidly due to breaking news, events, or trends, which can challenge models that lack the ability to capture temporal dynamics
+
+5 - Traditional sentiment analysis models might not perform well on Twitter data without proper adaptation. Transfer learning and fine-tuning techniques might be necessary.
    
    
    <br>
