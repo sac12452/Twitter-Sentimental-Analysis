@@ -18,8 +18,8 @@
 
 | Files| Description |
 | ------------- | ------------- |
-| **Twitter-Tweets-Sentimental-Analysis.ipynb** | This file contains the Python codes of the Suitable structuring of the Data, Data Cleaning and Exploratory Analysis parts, ML model creation. |
-| **twitter_tweets.csv**  | This file provides the raw data for the project .  |
+| **Twitter(python file)** | This file contains the Python codes of the Suitable structuring of the Data, Data Cleaning and Exploratory Analysis parts, ML model creation. |
+| **Twitter(csv_file)**  | This file provides the raw data for the project .  |
 <br>
 
 
